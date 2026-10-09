@@ -2,8 +2,7 @@
 
 Place playwright.config.ts in your project root and the tests directory beside it.
 Merge config and .gitignore into existing files rather than discarding existing settings.
-The workflow files have been renamed to CLI_delete_PS.spec.ts and CLI_create_PS.spec.ts
-to match standard Playwright test discovery.
+
 
 Install dependencies if missing:
 
